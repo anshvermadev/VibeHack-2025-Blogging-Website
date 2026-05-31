@@ -59,7 +59,7 @@ The platform empowers authors with a rich text editor, draft management, and eng
 | Name | GitHub | Role |
 |------|--------|------|
 | Mit Gandhi | [@Mit-Gandhi](https://github.com/Mit-Gandhi) | Frontend Developer |
-| Ansh Verma | [@verma07ansh](https://github.com/verma07ansh) | Full Stack Developer |
+| Ansh Verma | [@anshvermadev](https://github.com/anshvermadev) | Full Stack Developer |
 | Rishit Srivastav | [@rishitsrivastav](https://github.com/rishitsrivastav) | Backend Developer |
 
 ---
