@@ -110,8 +110,8 @@ The platform empowers authors with a rich text editor, draft management, and eng
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/Mit-Gandhi/Vibe-Hack-2025.git
-cd Vibe-Hack-2025
+git clone https://github.com/anshvermadev/VibeHack-2025-Blogging-Website.git
+cd VibeHack-2025-Blogging-Website
 ```
 
 ### ⚡ Quick Start
